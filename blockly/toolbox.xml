@@ -1,4 +1,4 @@
-<category id="catLed_bit" index="1" tags="bit">
+<category id="catLed_bit" tags="bit">
   <block type="variables_set">
     <field name="VAR">led</field>
     <value name="VALUE">
