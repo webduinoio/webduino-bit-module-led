@@ -2,7 +2,7 @@
   "name": "webduino-bit-module-led",
   "version": "1.0.0",
   "description": "🔌 Block Module for LED of Webduino:bit",
-  "main": "index.js",
+  "main": "BitLed-blockly.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
