@@ -1,0 +1,27 @@
+{
+  "name": "webduino-bit-module-led",
+  "version": "1.0.0",
+  "description": "🔌 Block Module for LED of Webduino:bit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webduinoio/webduino-bit-module-led.git"
+  },
+  "keywords": [
+    "arduino",
+    "webduino",
+    "led"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/webduinoio/webduino-bit-module-led/issues"
+  },
+  "homepage": "https://webduino.io",
+  "dependencies": {
+    "webduino-js": "0.x"
+  }
+}

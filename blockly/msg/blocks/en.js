@@ -1,0 +1,12 @@
+Blockly.Msg.WEBDUINO_LED = "LED";
+Blockly.Msg.WEBDUINO_PIN = "Pin:";
+Blockly.Msg.WEBDUINO_LED_PIN_BIT = "(Bit) Pin:";
+Blockly.Msg.WEBDUINO_LED_STATE = "";
+Blockly.Msg.WEBDUINO_LED_TOGGLE = "Toggle State";
+Blockly.Msg.WEBDUINO_LED_INTENSITY = "Intensity (0-1.0):";
+Blockly.Msg.WEBDUINO_LED_SET = "Turn";
+Blockly.Msg.WEBDUINO_LED_STATE_IS = "'s State:";
+Blockly.Msg.WEBDUINO_LED_STATE_DO = "Do";
+Blockly.Msg.WEBDUINO_LED_BLINK = "Blink Every";
+Blockly.Msg.WEBDUINO_LED_BLINK_SEC = "Second(s)";
+Blockly.Msg.WEBDUINO_LED_BLINK_DO = "Do";

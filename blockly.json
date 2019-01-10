@@ -1,0 +1,17 @@
+{
+  "types": [
+    "led_new_bit",
+    "led_state"
+  ],
+  "category": "catMenu1",
+  "scripts": [
+    "blockly/blocks.js",
+    "blockly/javascript.js"
+  ],
+  "dependencies": [
+    "BitLed-blockly.js"
+  ],
+  "msg": "blockly/msg",
+  "blocksMsg": "blockly/msg/blocks",
+  "toolbox": "blockly/toolbox.xml"
+}

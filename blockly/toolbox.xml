@@ -1,0 +1,13 @@
+<category id="catLed_bit" index="1" tags="bit">
+  <block type="variables_set">
+    <field name="VAR">led</field>
+    <value name="VALUE">
+      <block type="led_new_bit">
+        <field name="pin_">1</field>
+      </block>
+    </value>
+  </block>
+  <block type="led_state">
+    <field name="led_">led</field>
+  </block>
+</category>
